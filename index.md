@@ -6,20 +6,47 @@ subtitle: PhD Student, Xi'an Jiaotong University
 
 <img src="assets/img/avatar.jpg" width="180" align="left" style="margin-right: 24px; border-radius: 50%; box-shadow: 0 0 6px rgba(0,0,0,0.25);" />
 
-<!-- About block -->
-<span style="font-size: 1.15em; font-weight: 600; color:#e74c3c;">Yang Zhao (赵阳)</span> is a PhD student at the 
-<a href="https://sai.xjtu.edu.cn/" target="_blank">School of Artificial Intelligence, Xi'an Jiaotong University</a>, 
-advised by <a href="mailto:liulongjun@xjtu.edu.cn" target="_blank">Prof. Longjun Liu</a>.
+<span style="font-size: 1.35em; font-weight: 700; color:#e74c3c;">Zhao Yang (杨昭)</span>
 
-His research lies at the intersection of 
-<span style="color:#3498db;">world-model-centric embodied AI</span>, 
-<span style="color:#3498db;">autonomous driving</span>, and 
-<span style="color:#3498db;">vision-language-action (VLA)</span> systems.
-He is particularly interested in how latent world models, long-horizon control, and diffusion-based planning can be combined
-to make robot policies both reliable and deployable.
+<!-- Social icons row -->
+<div style="margin:10px 0 14px 0; display:flex; gap:20px; align-items:center;">
 
-Previously, he worked as a research engineer on world-model and perception systems at
-Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah's Ark Lab.
+  <a href="https://scholar.google.com.hk/citations?user=peTexp4AAAAJ" target="_blank">
+    <img src="assets/icons/google_scholar.svg" width="22" style="opacity:0.9;">
+  </a>
+
+  <a href="assets/files/YangZhao_CV.pdf" target="_blank">
+    <span style="font-size:0.95em; font-weight:600; color:#52b8ff;">CV</span>
+  </a>
+
+  <a href="https://github.com/yangzhaojason" target="_blank">
+    <img src="assets/icons/github.svg" width="22" style="opacity:0.9;">
+  </a>
+
+  <a href="https://openreview.net/profile?id=%7EZhao_Yang9" target="_blank">
+    <img src="assets/icons/openreview.svg" width="22" style="opacity:0.9;">
+  </a>
+
+  <a href="https://maimai.cn/contact/share/card?u=kviniwiygqrc&_share_channel=copy_link" target="_blank">
+    <img src="assets/icons/maimai.svg" width="22" style="opacity:0.9;">
+  </a>
+</div>
+
+I’m a PhD student at the  
+<a href="https://sai.xjtu.edu.cn/" target="_blank">School of Artificial Intelligence, Xi'an Jiaotong University</a> and a member of the  
+<strong>State Key Laboratory of Human-Machine Hybrid Augmented Intelligence</strong>,  
+<strong>National Engineering Research Center for Visual Information and Applications</strong>, and the  
+<strong>Institute of Artificial Intelligence and Robotics</strong>, Xi’an Jiaotong University.
+
+My research lies at the intersection of  
+<span style="color:#3498db;">world-model-centric embodied AI</span>,  
+<span style="color:#3498db;">autonomous driving</span>, and  
+<span style="color:#3498db;">vision-language-action (VLA)</span> systems.  
+I’m particularly interested in how latent world models, long-horizon control, and diffusion-based planning can be combined to make robot policies reliable, temporally consistent, and deployable on real platforms.
+
+Previously, I worked on world-model and perception systems at  
+Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab,  
+and I’m currently building an embodied intelligence startup.
 
 <br clear="both" />
 
@@ -28,43 +55,43 @@ Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah's Ark Lab.
 ## Research Overview
 
 My long-term goal is to build  
-<strong>world-model-first autonomous agents</strong> capable of robust long-horizon reasoning and real-world deployment.
+<strong>world-model-first autonomous robotic agents</strong> capable of robust long-horizon reasoning, dexterous manipulation, and real-world deployment.
 
 Methodologically, my work spans:
 
 - **World Models & Generative Planning**  
-  Latent 3D / video world models, diffusion-based planners, and chunked action policies for long-horizon manipulation and driving.
+  Latent 3D / video world models, diffusion-based planners, and chunked action policies for long-horizon control in manipulation and driving.
+
+- **Vision-Language-Action (VLA) for Robotics**  
+  World-model-centric VLA architectures for generalizable robotic behavior, including dexterous grasping and manipulation tasks with action chunking, seam-aware execution, and RL fine-tuning over large-scale, unstructured robotic data.
 
 - **Autonomous Driving & 3D Perception**  
-  Semi-supervised BEV 3D detection, panoramic surround-view perception, and uncertainty-aware localization.
+  Semi-supervised BEV 3D detection, panoramic surround-view sensing, uncertainty-aware localization, and HD map construction for embodied navigation.
 
-- **Vision-Language-Action (VLA) Systems**  
-  World-model-centric VLA architectures, action chunking, seam-aware execution, and RL fine-tuning over unstructured data.
-
-On the application side, my work has been validated on large-scale benchmarks such as nuScenes, KITTI-360, CALVIN, LIBERO, and real autonomous driving platforms.
+On the application side, my work has been validated on large-scale robotic manipulation benchmarks such as **CALVIN**, **LIBERO**, and real-world robotic platforms, as well as autonomous-driving datasets including **nuScenes**, **KITTI-360**, and **Waymo**.
 
 ---
 
 ## Career & Education History
 
-| Role              | Institution / Company                                                                 | Period        |
-|-------------------|---------------------------------------------------------------------------------------|---------------|
-| Researcher        | Cytoderm Itelligent Technology                                                        | 2025 – Present |
-| Researcher        | Autonomous Driving Group, Baidu (Apollo ADFM)                                         | 2023 – 2025    |
-| Researcher        | DAMO Academy, Alibaba Group                                                           | 2021 – 2023    |
-| PhD Student       | School of Artificial Intelligence, Xi'an Jiaotong University                          | 2023 – Present |
-| Researcher        | Noah's Ark Lab, Huawei Technologies                                                   | 2019 – 2022    |
-| MS Student        | Information Security, Huazhong University of Science and Technology (HUST)            | 2017 – 2019    |
+| Role                               | Institution / Company                                                                 | Period        |
+|------------------------------------|----------------------------------------------------------------------------------------|---------------|
+| **Chief Algorithm Researcher**     | Cytoderm Intelligent Technology (Robotics & Embodied AI)                              | 2025 – Present |
+| Senior Algorithm Engineer          | Baidu · Apollo ADFM (Autonomous Driving & World Models)                                | 2023 – 2025    |
+| PhD Student                        | Xi’an Jiaotong University · Institute of AI & Robotics                                 | 2023 – Present |
+| Senior Algorithm Engineer          | Alibaba · DAMO Academy (3D Perception & BEV Representation)                            | 2021 – 2023    |
+| Algorithm Engineer                 | Huawei · Noah’s Ark Lab (Machine Learning & Computer Vision)                           | 2019 – 2022    |
+| MS Student                         | Huazhong University of Science and Technology (HUST)                                    | 2017 – 2019    |
 
 ---
 
 ## Expertise
 
 - **Embodied AI & Robot Learning** (2025 – Present)  
-  World models, VLA policies, diffusion-based planners, chunked control.
+  World models, VLA policies, diffusion-based planners, chunked and hierarchical control.
 
-- **Autonomous Driving & 3D Perception** (2020 – Present)  
-  BEV 3D detection, surround-view fisheye perception, HD map construction, planning with uncertainty.
+- **Autonomous Driving & 3D Perception** (2020 – 2025)  
+  BEV 3D detection, surround-view fisheye perception, HD map construction, planning under uncertainty.
 
 - **Computer Vision & Machine Learning** (2013 – 2019)  
   Semi-supervised learning, tensor methods, model compression and distillation.
@@ -73,11 +100,10 @@ On the application side, my work has been validated on large-scale benchmarks su
 
 ## News
 
-<!-- 近期可以自己按时间补充，这里先给几个模板式例子 -->
-- **2025.11** – *ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning* submitted to a top conference on robot learning / AI.
-- **2025.10** – *Object-Guided Semi-Supervised BEV 3D Object Detection with 3D Box Refinement* accepted by **IEEE T-ITS**.
-- **2025.09** – Completed large-scale experiments on LIBERO long-horizon manipulation benchmark with world-model-centric VLA agents.
-- **2024.06** – 1st-place solution for **CVPR 2024 Autonomous Driving Grand Challenge – Predictive World Model Track**.
+- **2025.11** – *ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning* completed and under review at a top venue in robot learning / AI.  
+- **2025.10** – *Object-Guided Semi-Supervised BEV 3D Object Detection with 3D Box Refinement* accepted by **IEEE T-ITS**.  
+- **2025.09** – Finished large-scale experiments on LIBERO long-horizon manipulation benchmark with world-model-centric VLA agents.  
+- **2024.06** – 1st-place solution for **CVPR 2024 Autonomous Driving Grand Challenge – Predictive World Model Track**.  
 - **2024.03** – Multiple works on BEV detection, spherical fusion, and map construction accepted to **CVPR / ACM MM**.
 
 ---
@@ -88,16 +114,19 @@ On the application side, my work has been validated on large-scale benchmarks su
 
 <!-- ChunkFlow card -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="assets/img/chunkflow_thumb.jpg" alt="ChunkFlow thumbnail" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/chunkflow_thumb.jpg" alt="ChunkFlow teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint</span>
+  </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
     </div>
-    <div style="color:#777; font-size:0.95em; margin-bottom:4px;">
+    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
       Long-horizon manipulation with seam-aware chunked policies, deterministic overlap blending, and continuity-regularized RL fine-tuning.
     </div>
-    <div style="font-size:0.9em;">
-      <span style="color:#e74c3c;">VLA · Long-horizon control · World models</span>
+    <div style="font-size:0.9em; color:#888;">
+      VLA · Long-horizon control · World models
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
       [<a href="#" target="_blank">PDF (coming soon)</a>] &nbsp;
@@ -109,127 +138,420 @@ On the application side, my work has been validated on large-scale benchmarks su
 
 <!-- DriVerse card -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="assets/img/driverse_thumb.jpg" alt="DriVerse thumbnail" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/driverse_thumb.jpg" alt="DriVerse teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#3498db; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2025</span>
+  </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment
     </div>
-    <div style="color:#777; font-size:0.95em; margin-bottom:4px;">
-      World-model-based simulator for driving with multimodal trajectory prompts and motion-aligned latent dynamics.
+    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
+      World-model-based simulator for autonomous driving with multimodal trajectory prompts and motion-aligned latent dynamics.
     </div>
-    <div style="font-size:0.9em;">
-      <span style="color:#e67e22;">Autonomous driving · World models · Generative simulation</span>
+    <div style="font-size:0.9em; color:#888;">
+      Autonomous driving · World models · Generative simulation
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
       [<a href="#" target="_blank">PDF</a>] &nbsp;
       [<a href="#" target="_blank">Code</a>] &nbsp;
-      [<a href="#" target="_blank">Demo video</a>]
+      [<a href="#" target="_blank">Demo</a>]
     </div>
   </div>
 </div>
 
 <!-- DualDiff+ card -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
-  <img src="assets/img/dualdiff_thumb.jpg" alt="DualDiff+ thumbnail" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/dualdiff_plus_thumb.jpg" alt="DualDiff+ teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint 2025</span>
+  </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance
     </div>
-    <div style="color:#777; font-size:0.95em; margin-bottom:4px;">
-      Dual-branch diffusion with occupancy-aware structure branch and appearance branch, combined with reward-guided sampling for controllable driving video generation.
+    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
+      Dual-branch diffusion with occupancy-aware structure and appearance branches, combined with reward-guided sampling for controllable driving video generation.
     </div>
-    <div style="font-size:0.9em;">
-      <span style="color:#16a085;">Diffusion · Video generation · Reward guidance</span>
+    <div style="font-size:0.9em; color:#888;">
+      Diffusion · Video generation · Reward guidance
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
       [<a href="#" target="_blank">PDF</a>] &nbsp;
       [<a href="#" target="_blank">Code</a>] &nbsp;
-      [<a href="#" target="_blank">Project page</a>]
+      [<a href="#" target="_blank">Project</a>]
     </div>
   </div>
 </div>
 
 </div>
 
-<p style="margin-top:10px; font-size:0.9em;">
-  (*Thumbnails are placeholders – replace with your own figures or teaser images.*)
+<p style="margin-top:10px; font-size:0.88em; color:#777;">
+(*Thumbnails above are placeholders – replace them with your own figures or teaser images when available.*)
 </p>
 
 ---
 
-## Selected Publications
+## Publications
 
-A more complete and up-to-date list is available on 
+A more complete and up-to-date list is available on  
 <a href="https://scholar.google.com.hk/citations?user=peTexp4AAAAJ" target="_blank">Google Scholar</a>.  
-Below is a selection of recent and representative works.
+Here is a structured list of conference and journal papers using the same card-style layout.  
+(Images and links can be filled in later.)
 
-### 2025
+### Recent works (2025–2024)
 
-- **ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning**  
-  <span style="color:#999;">Z. Yang, Y. Shi, M. Yao, W. Xue, Y. Jueluo, L. Liu</span>.  
-  *Preprint / under review, 2025.*  
-  Long-horizon VLA policy with chunked actions, seam-aware blending, and continuity-constrained RL fine-tuning.
+<div style="display:flex; flex-direction:column; gap:18px;">
 
-- **DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment**  
-  *ACM Multimedia (ACM MM), 2025.*  
+<!-- ChunkFlow -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/chunkflow.jpg" alt="ChunkFlow" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>Under review, 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      VLA policy with chunked actions, overlap blending, and continuity-constrained RL to suppress boundary jitter in long-horizon control.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+    </div>
+  </div>
+</div>
 
-- **U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**  
-  *IEEE/CVF International Conference on Computer Vision (ICCV), 2025.*
+<!-- DriVerse -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/driverse.jpg" alt="DriVerse" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#3498db; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      A navigation-centric world model that conditions on multimodal trajectory prompts and enforces motion-aligned latent dynamics for driving simulation.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+    </div>
+  </div>
+</div>
 
-- **Causal-Planner: Causal Interaction Disentangling with Episodic Memory Gating for Autonomous Planning**  
-  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.*
+<!-- U-ViLAR -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/u-vilar.jpg" alt="U-ViLAR" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#9b59b6; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICCV 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/CVF International Conference on Computer Vision (ICCV), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Differentiable association and registration with explicit uncertainty modeling for robust large-scale localization in autonomous driving.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **Towards Accurate Semi-Supervised BEV 3D Object Detection with Depth-Aware Refinement and Denoising-Aided Alignment**  
-  *IEEE International Conference on Robotics and Automation (ICRA), 2025.*
+<!-- Causal-Planner -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/causal_planner.jpg" alt="Causal-Planner" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#c0392b; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">IROS 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Causal-Planner: Causal Interaction Disentangling with Episodic Memory Gating for Autonomous Planning
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Causal interaction modeling and memory-gated policy for interpretable planning in dynamic driving environments.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**  
-  *IEEE International Conference on Robotics and Automation (ICRA), 2025.*
+<!-- Semi-supervised BEV 3D detection -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/bev_semi3d.jpg" alt="Semi-supervised BEV 3D detection" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#27ae60; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Towards Accurate Semi-Supervised BEV 3D Object Detection with Depth-Aware Refinement and Denoising-Aided Alignment
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Semi-supervised BEV detector with depth-aware refinement, denoising-aided alignment, and robust pseudo-labeling on nuScenes.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **DualDiff+: Dual-branch Diffusion for High-fidelity Video Generation with Reward Guidance**  
-  *arXiv preprint, 2025.*
+<!-- DualDiff -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/dualdiff.jpg" alt="DualDiff" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      DualDiff: Dual-Branch Diffusion Model for Autonomous Driving with Semantic Fusion
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Dual-branch diffusion model that fuses semantic BEV priors with image features for controllable driving video and occupancy generation.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **Object-Guided Semi-Supervised Bird’s-Eye View 3D Object Detection with 3D Box Refinement**  
-  *IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.*
+<!-- T-ITS BEV 3D detection -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/ogss_bev.jpg" alt="Object-Guided Semi-Supervised BEV 3D Detection" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#e74c3c; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">T-ITS 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Object-Guided Semi-Supervised Bird’s-Eye View 3D Object Detection with 3D Box Refinement
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Semi-supervised BEV framework with object-guided consistency and box refinement, improving label efficiency on large-scale driving datasets.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **EquivFisheye: A Spherical Fusion Framework for Panoramic 3D Perception with Surround-View Fisheye Cameras**  
-  *Preprint / under review (Information Fusion), 2025.*
+<!-- EquivFisheye -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/equivfisheye.jpg" alt="EquivFisheye" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#34495e; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Info Fusion (under review)</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      EquivFisheye: A Spherical Fusion Framework for Panoramic 3D Perception with Surround-View Fisheye Cameras
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>Submitted to Information Fusion, 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Spherical feature fusion and equivariant pooling for efficient panoramic 3D perception from multi-view fisheye cameras.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-### 2024
+<!-- Cadkp -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/cadkp.jpg" alt="Cadkp" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#2980b9; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPR 2024</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Cadkp: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Category-aware distillation and structured pruning to obtain compact yet accurate 3D detectors for autonomous driving.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **Cadkp: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection**  
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
+<!-- RAG-Guided LLMs -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/rag_llm.jpg" alt="RAG-Guided LLMs" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#8e44ad; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2024</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Correction
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2024.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Retrieval-augmented LLMs for spatial description, with adaptive hallucination correction in vision-language reasoning.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Correction**  
-  *ACM Multimedia (ACM MM), 2024.*
+<!-- Temporal-Informative Adapters / IC-Mapper (grouped) -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/micro_expression.jpg" alt="VideoMAE adapters" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#d35400; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2024</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Temporal-Informative Adapters in VideoMAE V2 and Multi-Scale Feature Fusion for Micro-Expression Spotting-then-Recognize
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2024.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Temporal adapters and multi-scale fusion for fine-grained micro-expression analysis.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+    <hr style="border:none; border-top:1px dashed #eee; margin:10px 0;">
+    <div style="font-weight:600; font-size:1.02em;">
+      IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2024.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Instance-centric spatio-temporal modeling for online HD map vectorization from autonomous driving logs.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **Temporal-Informative Adapters in VideoMAE V2 and Multi-Scale Feature Fusion for Micro-Expression Spotting-then-Recognize**  
-  *ACM Multimedia (ACM MM), 2024.*
+<!-- CVPR 2024 World Model Challenge -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/cvpr2024_worldmodel.jpg" alt="CVPR 2024 Predictive World Model track" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#2ecc71; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPRW 2024 · 1st place</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      The 1st-Place Solution for CVPR 2024 Autonomous Driving Grand Challenge Track on Predictive World Model
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>CVPR 2024 Workshop on Autonomous Driving, 2024.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Large-scale world-model solution for multi-step predictive planning in autonomous driving, achieving 1st place in the CVPR 2024 challenge.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
 
-- **IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction**  
-  *ACM Multimedia (ACM MM), 2024.*
+</div> <!-- end recent works -->
 
-- **The 1st-Place Solution for CVPR 2024 Autonomous Grand Challenge Track on Predictive World Model**  
-  *CVPR Workshop / Challenge on Autonomous Driving, 2024.*
+### Earlier works
 
-### 2022–2020
+<div style="display:flex; flex-direction:column; gap:18px;">
 
-- **Flexible Android Malware Detection Model Based on Generative Adversarial Networks with Code Tensor**  
-  *IEEE Transactions on Cyber-Enabled Distributed Computing and Systems, 2022.*
+<!-- Malware GAN -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/malware_gan.jpg" alt="Malware GAN" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#34495e; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Journal 2022</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Flexible Android Malware Detection Model Based on Generative Adversarial Networks with Code Tensor
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE Transactions on Cyber-Enabled Distributed Computing and Systems, 2022.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      GAN-based code-tensor modeling for robust Android malware detection.
+    </div>
+  </div>
+</div>
 
-- **Interactive Self-Training with Mean Teachers for Semi-Supervised Object Detection**  
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.*
+<!-- Mean-teacher SSD -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/mean_teacher.jpg" alt="Interactive self-training" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#2980b9; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPR 2021</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Interactive Self-Training with Mean Teachers for Semi-Supervised Object Detection
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Semi-supervised detector training with interactive self-training and mean-teacher consistency.
+    </div>
+  </div>
+</div>
 
-- **Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing**  
-  *IEEE Transactions on Computational Social Systems, 2020.*
+<!-- Secure tensor decomposition -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/secure_tensor.jpg" alt="Secure tensor decomposition" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">T-CSS 2020</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE Transactions on Computational Social Systems, 2020.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Privacy-preserving tensor decomposition framework for heterogeneous multimedia data in cloud environments.
+    </div>
+  </div>
+</div>
 
-- **The 1st-Place Solution for WebVision CVPR 2020 Virtual**  
-  *CVPR Workshop on WebVision, 2020.*
+<!-- WebVision 2020 -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/webvision.jpg" alt="WebVision 2020" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#f1c40f; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPRW 2020 · 1st place</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      The 1st-Place Solution for WebVision CVPR 2020 Virtual
+    </div>
+    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>CVPR 2020 WebVision Challenge Workshop.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Large-scale web-vision model with robust training on noisy labels, achieving 1st place in the WebVision 2020 challenge.
+    </div>
+  </div>
+</div>
+
+</div> <!-- end earlier works -->
 
 ---
 
 ## Service & Misc.
 
 - Reviewer for major conferences and journals in vision and robotics (CVPR, ICCV, ICRA, ITSC, T-ITS, etc.).  
-- Experience with large-scale GPU clusters (A800/A100), distributed training, and real-world autonomous driving platforms.
+- Extensive experience with large-scale GPU clusters (A800 / A100), distributed training, and real autonomous driving platforms.  
 
-If you are interested in **collaborations** on world models, VLA agents, or diffusion-based planning, feel free to contact me by email.
+If you are interested in collaborations on **world models**, **VLA agents**, or **diffusion-based planning**, feel free to contact me by email.
