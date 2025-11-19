@@ -4,15 +4,15 @@ title: Yang Zhao
 subtitle: PhD Student, Xi'an Jiaotong University
 ---
 
-<img src="assets/img/avatar.jpg" width="180" align="left" style="margin-right: 24px; border-radius: 50%; box-shadow: 0 0 6px rgba(0,0,0,0.25);" />
+<img src="assets/img/zhao_yang.jpeg" width="180" align="left" style="margin-right: 24px; border-radius: 50%; box-shadow: 0 0 6px rgba(0,0,0,0.25);" />
 
 <span style="font-size: 1.35em; font-weight: 700; color:#e74c3c;">Zhao Yang (杨昭)</span>
 
 <!-- Social icons row -->
-<div style="margin:10px 0 14px 0; display:flex; gap:20px; align-items:center;">
+<div style="display:flex; gap:18px; align-items:center;">
 
   <a href="https://scholar.google.com.hk/citations?user=peTexp4AAAAJ" target="_blank">
-    <img src="assets/icons/google_scholar.svg" width="22" style="opacity:0.9;">
+    <img src="assets/icons/googlescholar.svg" width="22">
   </a>
 
   <a href="assets/files/YangZhao_CV.pdf" target="_blank">
@@ -20,20 +20,21 @@ subtitle: PhD Student, Xi'an Jiaotong University
   </a>
 
   <a href="https://github.com/yangzhaojason" target="_blank">
-    <img src="assets/icons/github.svg" width="22" style="opacity:0.9;">
+    <img src="assets/icons/github.svg" width="22">
   </a>
 
   <a href="https://openreview.net/profile?id=%7EZhao_Yang9" target="_blank">
-    <img src="assets/icons/openreview.svg" width="22" style="opacity:0.9;">
+    <img src="assets/icons/openreview.svg" width="22">
   </a>
 
   <a href="https://maimai.cn/contact/share/card?u=kviniwiygqrc&_share_channel=copy_link" target="_blank">
-    <img src="assets/icons/maimai.svg" width="22" style="opacity:0.9;">
+    <img src="assets/icons/maimai.svg" width="22">
   </a>
+
 </div>
 
-I’m a PhD student at the  
-<a href="https://sai.xjtu.edu.cn/" target="_blank">School of Artificial Intelligence, Xi'an Jiaotong University</a> and a member of the  
+I am affiliated with the  
+<a href="https://sai.xjtu.edu.cn/" target="_blank">School of Artificial Intelligence, Xi'an Jiaotong University</a> as a PhD candidate and a member of the  
 <strong>State Key Laboratory of Human-Machine Hybrid Augmented Intelligence</strong>,  
 <strong>National Engineering Research Center for Visual Information and Applications</strong>, and the  
 <strong>Institute of Artificial Intelligence and Robotics</strong>, Xi’an Jiaotong University.
@@ -46,7 +47,7 @@ I’m particularly interested in how latent world models, long-horizon control, 
 
 Previously, I worked on world-model and perception systems at  
 Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab,  
-and I’m currently building an embodied intelligence startup.
+and I am now <strong>founding an embodied-intelligence startup</strong>, Cytoderm Intelligent Technology, whose current products include <a href="https://www.cytoderm.ai/" target="_blank">Cytoderm AI</a> and <a href="https://cybopal.com/" target="_blank">Cybopal</a>.
 
 <br clear="both" />
 
@@ -105,90 +106,6 @@ On the application side, my work has been validated on large-scale robotic manip
 - **2025.09** – Finished large-scale experiments on LIBERO long-horizon manipulation benchmark with world-model-centric VLA agents.  
 - **2024.06** – 1st-place solution for **CVPR 2024 Autonomous Driving Grand Challenge – Predictive World Model Track**.  
 - **2024.03** – Multiple works on BEV detection, spherical fusion, and map construction accepted to **CVPR / ACM MM**.
-
----
-
-## Featured Research
-
-<div style="display:flex; flex-direction:column; gap:18px;">
-
-<!-- ChunkFlow card -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/chunkflow_thumb.jpg" alt="ChunkFlow teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
-    </div>
-    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
-      Long-horizon manipulation with seam-aware chunked policies, deterministic overlap blending, and continuity-regularized RL fine-tuning.
-    </div>
-    <div style="font-size:0.9em; color:#888;">
-      VLA · Long-horizon control · World models
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#" target="_blank">PDF (coming soon)</a>] &nbsp;
-      [<a href="#" target="_blank">Code</a>] &nbsp;
-      [<a href="#" target="_blank">Video</a>]
-    </div>
-  </div>
-</div>
-
-<!-- DriVerse card -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/driverse_thumb.jpg" alt="DriVerse teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#3498db; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2025</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment
-    </div>
-    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
-      World-model-based simulator for autonomous driving with multimodal trajectory prompts and motion-aligned latent dynamics.
-    </div>
-    <div style="font-size:0.9em; color:#888;">
-      Autonomous driving · World models · Generative simulation
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#" target="_blank">PDF</a>] &nbsp;
-      [<a href="#" target="_blank">Code</a>] &nbsp;
-      [<a href="#" target="_blank">Demo</a>]
-    </div>
-  </div>
-</div>
-
-<!-- DualDiff+ card -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/dualdiff_plus_thumb.jpg" alt="DualDiff+ teaser" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.2); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint 2025</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance
-    </div>
-    <div style="color:#777; font-size:0.95em; margin:2px 0 4px 0;">
-      Dual-branch diffusion with occupancy-aware structure and appearance branches, combined with reward-guided sampling for controllable driving video generation.
-    </div>
-    <div style="font-size:0.9em; color:#888;">
-      Diffusion · Video generation · Reward guidance
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#" target="_blank">PDF</a>] &nbsp;
-      [<a href="#" target="_blank">Code</a>] &nbsp;
-      [<a href="#" target="_blank">Project</a>]
-    </div>
-  </div>
-</div>
-
-</div>
-
-<p style="margin-top:10px; font-size:0.88em; color:#777;">
-(*Thumbnails above are placeholders – replace them with your own figures or teaser images when available.*)
-</p>
 
 ---
 
@@ -492,7 +409,7 @@ Here is a structured list of conference and journal papers using the same card-s
 </div>
 
 <!-- Mean-teacher SSD -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
+<!-- <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
     <img src="assets/img/papers/mean_teacher.jpg" alt="Interactive self-training" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
     <span style="position:absolute; top:8px; left:8px; background:#2980b9; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPR 2021</span>
@@ -507,7 +424,7 @@ Here is a structured list of conference and journal papers using the same card-s
       Semi-supervised detector training with interactive self-training and mean-teacher consistency.
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Secure tensor decomposition -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
@@ -551,7 +468,7 @@ Here is a structured list of conference and journal papers using the same card-s
 
 ## Service & Misc.
 
-- Reviewer for major conferences and journals in vision and robotics (CVPR, ICCV, ICRA, ITSC, T-ITS, etc.).  
+- Reviewer for major conferences and journals in vision and robotics (CVPR, ICCV, ECCV, ACM MM, ICRA, IROS, T-ITS, etc.).  
 - Extensive experience with large-scale GPU clusters (A800 / A100), distributed training, and real autonomous driving platforms.  
 
 If you are interested in collaborations on **world models**, **VLA agents**, or **diffusion-based planning**, feel free to contact me by email.
