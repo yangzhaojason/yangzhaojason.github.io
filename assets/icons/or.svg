@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <!-- black circle -->
+  <circle cx="12" cy="12" r="12" fill="#000000" />
+
+  <!-- letters "OR" enlarged -->
+  <text
+    x="12"
+    y="15"
+    text-anchor="middle"
+    font-size="11"
+    font-weight="700"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    fill="#ffffff">
+    OR
+  </text>
+</svg>

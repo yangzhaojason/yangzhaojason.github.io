@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  width="26"
+  height="26"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <!-- rounded square background -->
+  <rect
+    x="2"
+    y="2"
+    width="22"
+    height="22"
+    rx="6.5"
+    ry="6.5"
+    fill="#000000" />
+
+  <!-- enlarged MM text -->
+  <text
+    x="12"
+    y="16.2"
+    text-anchor="middle"
+    font-size="13.8"
+    font-weight="700"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    fill="#ffffff">
+    mm
+  </text>
+</svg>
