@@ -481,7 +481,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     <div style="font-weight:600; font-size:1.02em;">
       The 1st-Place Solution for WebVision CVPR 2020 Virtual
     </div>
-    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang et al.</div>
     <div style="font-size:0.9em; margin-top:2px;"><em>CVPR 2020 WebVision Challenge Workshop.</em></div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       Large-scale web-vision model with robust training on noisy labels, achieving 1st place in the WebVision 2020 challenge.
