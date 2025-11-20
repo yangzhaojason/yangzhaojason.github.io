@@ -113,7 +113,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
     <img src="assets/img/papers/chunkflow.jpg" alt="ChunkFlow" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Preprint</span>
+    <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Under review</span>
   </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
@@ -125,7 +125,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       VLA policy with chunked actions, overlap blending, and continuity-constrained RL to suppress boundary jitter in long-horizon control.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="https://cytoderm-ai.github.io/">Project</a>]
     </div>
   </div>
 </div>
@@ -146,7 +146,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       A navigation-centric world model that conditions on multimodal trajectory prompts and enforces motion-aligned latent dynamics for driving simulation.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+      [<a href="https://dl.acm.org/doi/pdf/10.1145/3746027.3755111">PDF</a>] [<a href="https://github.com/shalfun/DriVerse">Code</a>]
     </div>
   </div>
 </div>
@@ -167,7 +167,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Differentiable association and registration with explicit uncertainty modeling for robust large-scale localization in autonomous driving.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Li_U-ViLAR_Uncertainty-Aware_Visual_Localization_for_Autonomous_Driving_via_Differentiable_Association_ICCV_2025_paper.pdf">PDF</a>]
     </div>
   </div>
 </div>
@@ -209,7 +209,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Semi-supervised BEV detector with depth-aware refinement, denoising-aided alignment, and robust pseudo-labeling on nuScenes.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128845">PDF</a>] [<a href="#">Code</a>]
     </div>
   </div>
 </div>
@@ -232,7 +232,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Dual-branch diffusion with semantic and motion reward alignment for high-resolution, temporally coherent video synthesis.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+      [<a href="https://arxiv.org/pdf/2503.03689">PDF</a>] [<a href="https://github.com/yangzhaojason/DualDiff">Code</a>] [<a href="https://yangzhaojason.github.io/DualDiff/">Project</a>]
     </div>
   </div>
 </div>
@@ -254,7 +254,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Dual-branch diffusion model that fuses semantic BEV priors with image features for controllable driving video and occupancy generation.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://arxiv.org/pdf/2505.01857">PDF</a>] [<a href="https://github.com/yangzhaojason/DualDiff">Code</a>] [<a href="https://yangzhaojason.github.io/DualDiff/">Project</a>]
     </div>
   </div>
 </div>
@@ -275,7 +275,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Semi-supervised BEV framework with object-guided consistency and box refinement, improving label efficiency on large-scale driving datasets.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11258591">PDF</a>] [<a href="#">Code</a>]
     </div>
   </div>
 </div>
@@ -296,7 +296,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Spherical feature fusion and equivariant pooling for efficient panoramic 3D perception from multi-view fisheye cameras.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5232063">PDF</a>] [<a href="#">Code</a>]
     </div>
   </div>
 </div>
@@ -317,7 +317,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Category-aware distillation and structured pruning to obtain compact yet accurate 3D detectors for autonomous driving.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10656209/">PDF</a>] [<a href="#">Code</a>]
     </div>
   </div>
 </div>
@@ -338,7 +338,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Retrieval-augmented LLMs for spatial description, with adaptive hallucination correction in vision-language reasoning.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3688990">PDF</a>]
     </div>
   </div>
 </div>
@@ -361,7 +361,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Temporal adapters and multi-scale fusion for fine-grained micro-expression analysis.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3689141">PDF</a>]
     </div>
   </div>
 </div>
@@ -384,7 +384,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Instance-centric spatio-temporal modeling for online HD map vectorization from autonomous driving logs.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://arxiv.org/pdf/2503.03882">PDF</a>] [<a href="#">Code</a>]
     </div>
   </div>
 </div>
@@ -406,7 +406,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Large-scale world-model solution for multi-step predictive planning in autonomous driving, achieving 1st place in the CVPR 2024 challenge.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://opendrivelab.com/challenge2024/#">Project</a>]
     </div>
   </div>
 </div>
@@ -432,6 +432,9 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       GAN-based code-tensor modeling for robust Android malware detection.
     </div>
+        <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://arxiv.org/pdf/2210.14225">Paper</a>]
+    </div>
   </div>
 </div>
 
@@ -456,38 +459,58 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 <!-- Secure tensor decomposition -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/secure_tensor.jpg" alt="Secure tensor decomposition" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">T-CSS 2020</span>
+    <img src="assets/img/papers/secure_tensor.jpg" alt="Secure tensor decomposition"
+         style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff;
+                 font-size:0.78em; padding:2px 8px; border-radius:4px;">
+      T-CSS 2020
+    </span>
   </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing
     </div>
     <div style="font-size:0.9em; color:#999;">Zhao Yang, Cai Fu, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE Transactions on Computational Social Systems, 2020.</em></div>
+    <div style="font-size:0.9em; margin-top:2px;">
+      <em>IEEE Transactions on Computational Social Systems (T-CSS), 2020.</em>
+    </div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       Privacy-preserving tensor decomposition framework for heterogeneous multimedia data in cloud environments.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://ieeexplore.ieee.org/abstract/document/8960318" target="_blank">Paper</a>]
     </div>
   </div>
 </div>
 
+
 <!-- WebVision 2020 -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/webvision.jpg" alt="WebVision 2020" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#f1c40f; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPRW 2020 · 1st place</span>
+    <img src="assets/img/papers/webvision.jpg" alt="WebVision 2020"
+         style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#f1c40f; color:#fff;
+                 font-size:0.78em; padding:2px 8px; border-radius:4px;">
+      CVPRW 2020 · 1st place
+    </span>
   </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
-      The 1st-Place Solution for WebVision CVPR 2020 Virtual
+      The 1st-Place Solution for WebVision CVPR 2020 Virtual Challenge
     </div>
     <div style="font-size:0.9em; color:#999;">Zhao Yang et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>CVPR 2020 WebVision Challenge Workshop.</em></div>
+    <div style="font-size:0.9em; margin-top:2px;">
+      <em>CVPR WebVision Challenge Workshop, 2020.</em>
+    </div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Large-scale web-vision model with robust training on noisy labels, achieving 1st place in the WebVision 2020 challenge.
+      Large-scale web-vision model with robust training under noisy labels, achieving 1st place in the WebVision 2020 challenge.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://data.vision.ee.ethz.ch/cvl/webvision/wp-w1.html" target="_blank">Project</a>]
     </div>
   </div>
 </div>
+
 
 </div> <!-- end earlier works -->
 
