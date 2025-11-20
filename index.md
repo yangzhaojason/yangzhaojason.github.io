@@ -214,6 +214,30 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
   </div>
 </div>
 
+<!-- DualDiff+ (Under review) -->
+<div style="display:flex; gap:16px; align-items:flex-start; margin-top:18px;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/dual_diff+.jpg" alt="DualDiff+"
+         style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#7f8c8d; color:#fff;
+                 font-size:0.78em; padding:2px 8px; border-radius:4px;">Under Review</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      DualDiff+: Dual-branch Diffusion for High-fidelity Video Generation with Reward Guidance
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang, Zezhong Qian, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>Under review, 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Dual-branch diffusion with semantic and motion reward alignment for high-resolution, temporally coherent video synthesis.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="#">Project</a>]
+    </div>
+  </div>
+</div>
+
+
 <!-- DualDiff -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
@@ -308,7 +332,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     <div style="font-weight:600; font-size:1.02em;">
       RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Correction
     </div>
-    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; color:#999;">Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang et al.</div>
     <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2024.</em></div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       Retrieval-augmented LLMs for spatial description, with adaptive hallucination correction in vision-language reasoning.
@@ -331,7 +355,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     <div style="font-weight:600; font-size:1.02em;">
       Temporal-Informative Adapters in VideoMAE V2 and Multi-Scale Feature Fusion for Micro-Expression Spotting-then-Recognize
     </div>
-    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
+    <div style="font-size:0.9em; color:#999;">Jun Yu,Guopeng Zhao, Yaohui Zhang, Peng He, Zerui Zhang, Zhao Yang, et al.</div>
     <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2024.</em></div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       Temporal adapters and multi-scale fusion for fine-grained micro-expression analysis.
