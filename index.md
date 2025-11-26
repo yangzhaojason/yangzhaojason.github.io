@@ -107,7 +107,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 
 ### Recent works (2025–2024)
 
-<div style="display:flex; flex-direction:column; gap:10px;">
+<div style="display:flex; flex-direction:column; gap:12px;">
 <!-- ChunkFlow -->
 <!-- <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
@@ -448,7 +448,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 
 ### Earlier works
 
-<div style="display:flex; flex-direction:column; gap:10px;">
+<div style="display:flex; flex-direction:column; gap:12px;">
 
 <!-- Malware GAN -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
