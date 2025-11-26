@@ -130,7 +130,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 </div> -->
 
 <!-- ChunkFlow -->
-<div style="display:flex; gap:4px; align-items:flex-start;">
+<div style="display:flex; gap:10px; align-items:flex-start;">
   <!-- Left column: cover + video -->
   <div style="position:relative; min-width:210px; display:flex; flex-direction:column; gap:1px;">
     <div style="position:relative;">
