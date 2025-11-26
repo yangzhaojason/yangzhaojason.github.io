@@ -107,14 +107,47 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 
 ### Recent works (2025–2024)
 
-<div style="display:flex; flex-direction:column; gap:18px;">
-
+<div style="display:flex; flex-direction:column; gap:8px;">
 <!-- ChunkFlow -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
+<!-- <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
     <img src="assets/img/papers/chunkflow.jpg" alt="ChunkFlow" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
     <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Under review</span>
   </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang, Yinan Shi, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>Under review, 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      VLA policy with chunked actions, overlap blending, and continuity-constrained RL to suppress boundary jitter in long-horizon control.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="https://cytoderm-ai.github.io/">Project</a>]
+    </div>
+  </div>
+</div> -->
+
+<!-- ChunkFlow -->
+<div style="display:flex; gap:4px; align-items:flex-start;">
+  <!-- Left column: cover + video -->
+  <div style="position:relative; min-width:210px; display:flex; flex-direction:column; gap:1px;">
+    <div style="position:relative;">
+      <img src="assets/img/papers/chunkflow.jpg" alt="ChunkFlow"
+           style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+      <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff;
+                   font-size:0.78em; padding:2px 8px; border-radius:4px;">Under review</span>
+    </div>
+
+  <!-- video preview -->
+  <video autoplay muted loop playsinline
+           style="width:210px; height:110px; border-radius:8px; object-fit:cover; box-shadow:0 0 4px rgba(0,0,0,0.18);">
+      <source src="assets/video/Cloth-Grasping.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <!-- Right column: text -->
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
@@ -415,7 +448,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 
 ### Earlier works
 
-<div style="display:flex; flex-direction:column; gap:18px;">
+<div style="display:flex; flex-direction:column; gap:8px;">
 
 <!-- Malware GAN -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
