@@ -308,7 +308,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Semi-supervised BEV framework with object-guided consistency and box refinement, improving label efficiency on large-scale driving datasets.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11258591">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11258591">PDF</a>] [<a href="https://github.com/yangzhaojason/OSS3D">Code</a>]
     </div>
   </div>
 </div>
@@ -350,7 +350,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Category-aware distillation and structured pruning to obtain compact yet accurate 3D detectors for autonomous driving.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10656209/">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10656209/">PDF</a>] [<a href="https://github.com/zhnxjtu/CaKDP">Code</a>]
     </div>
   </div>
 </div>
@@ -417,7 +417,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Instance-centric spatio-temporal modeling for online HD map vectorization from autonomous driving logs.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://arxiv.org/pdf/2503.03882">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://arxiv.org/pdf/2503.03882">PDF</a>] [<a href="https://github.com/yangzhaojason/IC-Mapper">Code</a>]
     </div>
   </div>
 </div>
