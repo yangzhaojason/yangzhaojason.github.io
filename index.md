@@ -317,19 +317,19 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
     <img src="assets/img/papers/equivfisheye.jpg" alt="EquivFisheye" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#34495e; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Info Fusion (under review)</span>
+    <span style="position:absolute; top:8px; left:8px; background:#34495e; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Info Fusion 2025</span>
   </div>
   <div>
     <div style="font-weight:600; font-size:1.02em;">
       EquivFisheye: A Spherical Fusion Framework for Panoramic 3D Perception with Surround-View Fisheye Cameras
     </div>
     <div style="font-size:0.9em; color:#999;">Zhao Yang, Xinglin Pu, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>Submitted to Information Fusion, 2025.</em></div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>Information Fusion, 2025.</em></div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
       Spherical feature fusion and equivariant pooling for efficient panoramic 3D perception from multi-view fisheye cameras.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5232063">PDF</a>] [<a href="#">Code</a>]
+      [<a href="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5232063">PDF</a>] [<a href="https://github.com/yangzhaojason/scnn-occ">Code</a>]
     </div>
   </div>
 </div>
