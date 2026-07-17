@@ -174,7 +174,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       A vision-language-action policy that combines chunked action generation, overlap-based blending, and continuity-constrained reinforcement learning to eliminate boundary jitter in long-horizon control.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="https://cytoderm-ai.github.io/">Project</a>]
+      [<a href="https://arxiv.org/pdf/2607.12992">PDF</a>] [<a href="#">Code</a>] [<a href="https://cytoderm-ai.github.io/">Project</a>]
     </div>
   </div>
 </div>
