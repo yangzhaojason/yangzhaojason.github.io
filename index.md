@@ -29,16 +29,11 @@ subtitle: PhD Student, Xi'an Jiaotong University
 
 </div>
 
-I am pursuing my PhD in the School of Artificial Intelligence at Xi’an Jiaotong University (XJTU),  
-with research affiliations at the **State Key Laboratory of Human-Machine Hybrid Augmented Intelligence**,  
-the **National Engineering Research Center for Visual Information and Applications**,  
-and the **Institute of Artificial Intelligence and Robotics**.
+I am a PhD candidate (expected 2027) in the School of Artificial Intelligence at Xi’an Jiaotong University (XJTU), affiliated with the **State Key Laboratory of Human-Machine Hybrid Augmented Intelligence**, the **National Engineering Research Center for Visual Information and Applications**, and the **Institute of Artificial Intelligence and Robotics**.
 
+My research lies at the intersection of <span style="color:#3498db;">world-model-centric embodied AI</span>, <span style="color:#3498db;">autonomous driving</span>, and <span style="color:#3498db;">vision-language-action (VLA)</span> systems. I am particularly interested in combining latent world models, long-horizon control, and diffusion-based planning to build robot policies that are reliable, temporally consistent, and deployable on real platforms.
 
-My research lies at the intersection of <span style="color:#3498db;">world-model-centric embodied AI</span>, <span style="color:#3498db;">autonomous driving</span>, and <span style="color:#3498db;">vision-language-action (VLA)</span> systems.  
-I’m particularly interested in how latent world models, long-horizon control, and diffusion-based planning can be combined to make robot policies reliable, temporally consistent, and deployable on real platforms.
-
-Previously, I worked on world-model and perception systems at Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab, and I am now <strong>founding an embodied-intelligence startup</strong>, Cytoderm Intelligent Technology.
+Prior to my doctoral studies, I worked on world models and perception systems at Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab. I am currently the founder of <strong>Cytoderm Intelligent Technology</strong>, an embodied-intelligence startup.
 
 <br clear="both" />
 
@@ -50,6 +45,9 @@ My long-term goal is to build <strong>world-model-first autonomous robotics</str
 
 Methodologically, my work spans:
 
+- **Interactive World-Action Models** <em>(current focus)</em>  
+  Unified architectures that jointly learn environment dynamics and action generation, coupling world-state prediction with policy learning to enable interaction-aware, closed-loop decision making for embodied agents.
+
 - **World Models & Generative Planning**  
   Latent 3D / video world models, diffusion-based planners, and chunked action policies for long-horizon control in manipulation and driving.
 
@@ -58,8 +56,6 @@ Methodologically, my work spans:
 
 - **Autonomous Driving & 3D Perception**  
   Semi-supervised BEV 3D detection, panoramic surround-view sensing, uncertainty-aware localization, and HD map construction for embodied navigation.
-
-On the application side, my work has been validated on large-scale robotic manipulation benchmarks such as **CALVIN**, **LIBERO**, and real-world robotic platforms, as well as autonomous-driving datasets including **nuScenes**, **KITTI-360**, and **Waymo**.
 
 ---
 
@@ -90,13 +86,11 @@ On the application side, my work has been validated on large-scale robotic manip
 ---
 
 ## News
+- **2026.07** – *GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning* accepted to **ACM MM 2026**.
+- **2026.07** – *ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning* accepted to **IROS 2026**.
+- **2026.07** – *CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving* accepted to **ICME 2025** as a **Highlight** paper.
 - **2025.12** – Released **Cytoderm·Robotic Arm**, a lightweight robotic manipulation platform designed for embodied AI research and industrial prototyping. More details: <a href="https://www.cytoderm.ai/" target="_blank">https://www.cytoderm.ai/</a>
-- **2025.12** – Launched **Cybopal**, a consumer-level embodied-intelligence robot product for everyday interactive and assistive tasks. See product page: <a href="https://cybopal.com/" target="_blank">https://cybopal.com/</a>
-- **2025.11** – *ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning* completed and under review at a top venue in robot learning / AI.  
-- **2025.10** – *Object-Guided Semi-Supervised BEV 3D Object Detection with 3D Box Refinement* accepted by **IEEE T-ITS**.  
-- **2025.09** – Finished large-scale experiments on LIBERO long-horizon manipulation benchmark with world-model-centric VLA agents.  
-- **2024.06** – 1st-place solution for **CVPR 2024 Autonomous Driving Grand Challenge – Predictive World Model Track**.  
-- **2024.03** – Multiple works on BEV detection, spherical fusion, and map construction accepted to **CVPR / ACM MM**.
+- **2025.12** – Launched **Cybopal**, a consumer-grade embodied-intelligence robot for everyday interactive and assistive tasks. See product page: <a href="https://cybopal.com/" target="_blank">https://cybopal.com/</a>
 
 ---
 
@@ -105,9 +99,31 @@ On the application side, my work has been validated on large-scale robotic manip
 A more complete and up-to-date list is available on <a href="https://scholar.google.com.hk/citations?user=peTexp4AAAAJ" target="_blank">Google Scholar</a>.  
 <!-- Here is a structured list of conference and journal papers using the same card-style layout. -->
 
-### Recent works (2025–2024)
+### Selected works
 
 <div style="display:flex; flex-direction:column; gap:12px;">
+
+<!-- GRID-Planner -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/grid_planner.jpg" alt="GRID-Planner" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#3498db; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ACM MM 2026</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang, Zezhong Qian, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>ACM Multimedia (ACM MM), 2026.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      A graph–reward integrated diffusion planner that combines graph-aware importance weighting, a relational reward surrogate, and an advantage-weighted on-policy objective with self-distillation, improving closed-loop planning on nuPlan and interPlan.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
+
 <!-- ChunkFlow -->
 <!-- <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
@@ -136,8 +152,8 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     <div style="position:relative;">
       <img src="assets/img/papers/chunkflow.jpg" alt="ChunkFlow"
            style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-      <span style="position:absolute; top:8px; left:8px; background:#e67e22; color:#fff;
-                   font-size:0.78em; padding:2px 8px; border-radius:4px;">Under review</span>
+      <span style="position:absolute; top:8px; left:8px; background:#c0392b; color:#fff;
+                   font-size:0.78em; padding:2px 8px; border-radius:4px;">IROS 2026</span>
     </div>
 
   <!-- video preview -->
@@ -153,9 +169,9 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
     </div>
     <div style="font-size:0.9em; color:#999;">Zhao Yang, Yinan Shi, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>Under review, 2025.</em></div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em></div>
     <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      VLA policy with chunked actions, overlap blending, and continuity-constrained RL to suppress boundary jitter in long-horizon control.
+      A vision-language-action policy that combines chunked action generation, overlap-based blending, and continuity-constrained reinforcement learning to eliminate boundary jitter in long-horizon control.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
       [<a href="#">PDF</a>] [<a href="#">Code</a>] [<a href="https://cytoderm-ai.github.io/">Project</a>]
@@ -221,73 +237,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
       Causal interaction modeling and memory-gated policy for interpretable planning in dynamic driving environments.
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="#">PDF</a>] [<a href="#">Code</a>]
-    </div>
-  </div>
-</div>
-
-<!-- Semi-supervised BEV 3D detection -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/bev_semi3d.jpg" alt="Semi-supervised BEV 3D detection" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#27ae60; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      Towards Accurate Semi-Supervised BEV 3D Object Detection with Depth-Aware Refinement and Denoising-Aided Alignment
-    </div>
-    <div style="font-size:0.9em; color:#999;">Zhao Yang, Yinan Shi, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Semi-supervised BEV detector with depth-aware refinement, denoising-aided alignment, and robust pseudo-labeling on nuScenes.
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128845">PDF</a>] [<a href="#">Code</a>]
-    </div>
-  </div>
-</div>
-
-<!-- DualDiff+ (Under review) -->
-<div style="display:flex; gap:16px; align-items:flex-start; margin-top:18px;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/dual_diff+.jpg" alt="DualDiff+"
-         style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#7f8c8d; color:#fff;
-                 font-size:0.78em; padding:2px 8px; border-radius:4px;">Under Review</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      DualDiff+: Dual-branch Diffusion for High-fidelity Video Generation with Reward Guidance
-    </div>
-    <div style="font-size:0.9em; color:#999;">Zhao Yang, Zezhong Qian, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>Under review, 2025.</em></div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Dual-branch diffusion with semantic and motion reward alignment for high-resolution, temporally coherent video synthesis.
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://arxiv.org/pdf/2503.03689">PDF</a>] [<a href="https://github.com/yangzhaojason/DualDiff">Code</a>] [<a href="https://yangzhaojason.github.io/DualDiff/">Project</a>]
-    </div>
-  </div>
-</div>
-
-
-<!-- DualDiff -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/dualdiff.jpg" alt="DualDiff" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      DualDiff: Dual-Branch Diffusion Model for Autonomous Driving with Semantic Fusion
-    </div>
-    <div style="font-size:0.9em; color:#999;">Zhao Yang, Haoteng Li, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Dual-branch diffusion model that fuses semantic BEV priors with image features for controllable driving video and occupancy generation.
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://arxiv.org/pdf/2505.01857">PDF</a>] [<a href="https://github.com/yangzhaojason/DualDiff">Code</a>] [<a href="https://yangzhaojason.github.io/DualDiff/">Project</a>]
+      [<a href="#">PDF</a>] [<a href="https://github.com/Yyb-XJTU/Causal-Planner">Code</a>]
     </div>
   </div>
 </div>
@@ -309,6 +259,76 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
     </div>
     <div style="margin-top:6px; font-size:0.9em;">
       [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11258591">PDF</a>] [<a href="https://github.com/yangzhaojason/OSS3D">Code</a>]
+    </div>
+  </div>
+</div>
+
+<!-- CityGen -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <!-- Left column: framework (top) + experiments (bottom) -->
+  <div style="position:relative; min-width:210px; display:flex; flex-direction:column; gap:4px;">
+    <div style="position:relative;">
+      <img src="assets/img/papers/CityGen_fame.jpg" alt="CityGen framework"
+           style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+      <span style="position:absolute; top:8px; left:8px; background:#f39c12; color:#fff;
+                   font-size:0.78em; padding:2px 8px; border-radius:4px;">ICME 2025 · Highlight</span>
+    </div>
+    <img src="assets/img/papers/CityGen_exp.jpg" alt="CityGen cross-city generation results"
+         style="width:210px; border-radius:8px; box-shadow:0 0 4px rgba(0,0,0,0.18); object-fit:cover;">
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zezhong Qian*, Zhao Yang*, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Multimedia and Expo (ICME), 2025. <strong>Highlight</strong>.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      A diffusion-based framework for zero-label cross-city adaptation that synthesizes target-city-style driving scenes conditioned on HD-map structure and VLM-derived city-style prompts, together with CityTransfer-Bench for evaluating cross-city generalization across detection, segmentation, and planning.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://arxiv.org/pdf/2605.29935">PDF</a>] [<a href="#">Code</a>]
+    </div>
+  </div>
+</div>
+
+<!-- Semi-supervised BEV 3D detection -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/bev_semi3d.jpg" alt="Semi-supervised BEV 3D detection" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#27ae60; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      Towards Accurate Semi-Supervised BEV 3D Object Detection with Depth-Aware Refinement and Denoising-Aided Alignment
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang, Yinan Shi, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Semi-supervised BEV detector with depth-aware refinement, denoising-aided alignment, and robust pseudo-labeling on nuScenes.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128845">PDF</a>] [<a href="https://github.com/yangzhaojason/OSS3D">Code</a>]
+    </div>
+  </div>
+</div>
+
+<!-- DualDiff -->
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <div style="position:relative; min-width:210px;">
+    <img src="assets/img/papers/dualdiff.jpg" alt="DualDiff" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
+    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">ICRA 2025</span>
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.02em;">
+      DualDiff: Dual-Branch Diffusion Model for Autonomous Driving with Semantic Fusion
+    </div>
+    <div style="font-size:0.9em; color:#999;">Zhao Yang, Haoteng Li, et al.</div>
+    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em></div>
+    <div style="color:#777; font-size:0.9em; margin-top:4px;">
+      Dual-branch diffusion model that fuses semantic BEV priors with image features for controllable driving video and occupancy generation.
+    </div>
+    <div style="margin-top:6px; font-size:0.9em;">
+      [<a href="https://arxiv.org/pdf/2505.01857">PDF</a>] [<a href="https://github.com/yangzhaojason/DualDiff">Code</a>] [<a href="https://yangzhaojason.github.io/DualDiff/">Project</a>]
     </div>
   </div>
 </div>
@@ -444,79 +464,6 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
   </div>
 </div>
 
-</div> <!-- end recent works -->
-
-### Earlier works
-
-<div style="display:flex; flex-direction:column; gap:12px;">
-
-<!-- Malware GAN -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/malware_gan.jpg" alt="Malware GAN" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#34495e; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">Journal 2022</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      Flexible Android Malware Detection Model Based on Generative Adversarial Networks with Code Tensor
-    </div>
-    <div style="font-size:0.9em; color:#999;">Zhao Yang, Fengyang Deng, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE Transactions on Cyber-Enabled Distributed Computing and Systems, 2022.</em></div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      GAN-based code-tensor modeling for robust Android malware detection.
-    </div>
-        <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://arxiv.org/pdf/2210.14225">Paper</a>]
-    </div>
-  </div>
-</div>
-
-<!-- Mean-teacher SSD -->
-<!-- <div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/mean_teacher.jpg" alt="Interactive self-training" style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#2980b9; color:#fff; font-size:0.78em; padding:2px 8px; border-radius:4px;">CVPR 2021</span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      Interactive Self-Training with Mean Teachers for Semi-Supervised Object Detection
-    </div>
-    <div style="font-size:0.9em; color:#999;">Z. Yang et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</em></div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Semi-supervised detector training with interactive self-training and mean-teacher consistency.
-    </div>
-  </div>
-</div> -->
-
-<!-- Secure tensor decomposition -->
-<div style="display:flex; gap:16px; align-items:flex-start;">
-  <div style="position:relative; min-width:210px;">
-    <img src="assets/img/papers/secure_tensor.jpg" alt="Secure tensor decomposition"
-         style="width:210px; border-radius:8px; box-shadow:0 0 6px rgba(0,0,0,0.18); object-fit:cover;">
-    <span style="position:absolute; top:8px; left:8px; background:#16a085; color:#fff;
-                 font-size:0.78em; padding:2px 8px; border-radius:4px;">
-      T-CSS 2020
-    </span>
-  </div>
-  <div>
-    <div style="font-weight:600; font-size:1.02em;">
-      Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing
-    </div>
-    <div style="font-size:0.9em; color:#999;">Zhao Yang, Cai Fu, et al.</div>
-    <div style="font-size:0.9em; margin-top:2px;">
-      <em>IEEE Transactions on Computational Social Systems (T-CSS), 2020.</em>
-    </div>
-    <div style="color:#777; font-size:0.9em; margin-top:4px;">
-      Privacy-preserving tensor decomposition framework for heterogeneous multimedia data in cloud environments.
-    </div>
-    <div style="margin-top:6px; font-size:0.9em;">
-      [<a href="https://ieeexplore.ieee.org/abstract/document/8960318" target="_blank">Paper</a>]
-    </div>
-  </div>
-</div>
-
-
 <!-- WebVision 2020 -->
 <div style="display:flex; gap:16px; align-items:flex-start;">
   <div style="position:relative; min-width:210px;">
@@ -544,8 +491,7 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
   </div>
 </div>
 
-
-</div> <!-- end earlier works -->
+</div> <!-- end selected works -->
 
 ---
 
