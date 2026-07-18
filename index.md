@@ -498,6 +498,6 @@ A more complete and up-to-date list is available on <a href="https://scholar.goo
 ## Service & Misc.
 
 - Reviewer for major conferences and journals in vision and robotics (CVPR, ICCV, ECCV, ACM MM, ICRA, IROS, T-ITS, etc.).  
-- Extensive experience with large-scale GPU clusters (A800 / A100), distributed training, and real autonomous driving platforms.  
+- Extensive engineering experience in large-scale distributed training on GPU clusters, closed-loop data engineering infrastructure, and reinforcement-learning training infrastructure for autonomous driving and robotics.  
 
 If you are interested in collaborations on **world models**, **VLA agents**, or **diffusion-based planning**, feel free to contact me by email.
