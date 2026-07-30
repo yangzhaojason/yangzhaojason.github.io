@@ -33,7 +33,7 @@ I am a PhD candidate (expected 2027) in the School of Artificial Intelligence at
 
 My research lies at the intersection of <span style="color:#3498db;">world-model-centric embodied AI</span>, <span style="color:#3498db;">autonomous driving</span>, and <span style="color:#3498db;">vision-language-action (VLA)</span> systems. I am particularly interested in combining latent world models, long-horizon control, and diffusion-based planning to build robot policies that are reliable, temporally consistent, and deployable on real platforms.
 
-Prior to my doctoral studies, I worked on world models and perception systems at Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab. I am currently the founder of <strong>Cytoderm Intelligent Technology</strong>, an embodied-intelligence startup.
+Prior to my doctoral studies, I worked on world models and perception systems at Baidu Apollo (ADFM), Alibaba DAMO Academy, and Huawei Noah’s Ark Lab. I am currently the Chief Algorithm Expert at <strong>Cytoderm Intelligent Technology</strong>, an embodied-intelligence startup.
 
 <br clear="both" />
 
